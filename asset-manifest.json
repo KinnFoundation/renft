@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/renft/static/css/main.a746408a.chunk.css",
+    "main.js": "/renft/static/js/main.f5283416.chunk.js",
+    "main.js.map": "/renft/static/js/main.f5283416.chunk.js.map",
+    "runtime-main.js": "/renft/static/js/runtime-main.c85fc652.js",
+    "runtime-main.js.map": "/renft/static/js/runtime-main.c85fc652.js.map",
+    "static/js/2.bf3527a2.chunk.js": "/renft/static/js/2.bf3527a2.chunk.js",
+    "static/js/2.bf3527a2.chunk.js.map": "/renft/static/js/2.bf3527a2.chunk.js.map",
+    "index.html": "/renft/index.html",
+    "precache-manifest.69f5ffb875cb92b0ee8ff2f66f8fa304.js": "/renft/precache-manifest.69f5ffb875cb92b0ee8ff2f66f8fa304.js",
+    "service-worker.js": "/renft/service-worker.js",
+    "static/css/main.a746408a.chunk.css.map": "/renft/static/css/main.a746408a.chunk.css.map",
+    "static/js/2.bf3527a2.chunk.js.LICENSE.txt": "/renft/static/js/2.bf3527a2.chunk.js.LICENSE.txt",
+    "static/js/main.f5283416.chunk.js.LICENSE.txt": "/renft/static/js/main.f5283416.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c85fc652.js",
+    "static/js/2.bf3527a2.chunk.js",
+    "static/css/main.a746408a.chunk.css",
+    "static/js/main.f5283416.chunk.js"
+  ]
+}
